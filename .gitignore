@@ -1,0 +1,8 @@
+node_modules
+.env
+yarn.lock
+helper-hardhat-config.js
+.pretierrc
+artifacts
+cache
+deployments
